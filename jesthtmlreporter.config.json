@@ -1,0 +1,8 @@
+{
+	"pageTitle": "Tendertest",
+	"outputPath": "test-report/index.html",
+	"includeFailureMsg": true,
+	"executionMode": "reporter"
+	
+	
+}
